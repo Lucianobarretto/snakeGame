@@ -1,6 +1,10 @@
 <h1 align="center">Snake Game</h1>
 
+<br>
+
 ---
+
+<br>
 
 <h2 align="center">Under Construction</h2>
 
@@ -8,13 +12,19 @@
   <kbd><img align="center" src="under-construction.gif" alt="Under Construction" width="450"/></kbd>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucianobalmeida/">
-    <kbd><img align="center" src="gifhub.gif" alt="Logo Luciano Barreto" width="900"/></kbd>
+    <kbd><img align="center" src="gifhub.gif" alt="Logo Luciano Barreto" width="500"/></kbd>
   </a>
 </p>
+
+<br>
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/lucianobalmeida/">
