@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucianobalmeida/">
-    <kbd><img align="center" src="gifhub.gif" alt="Logo Luciano Barreto" width="450"/></kbd>
+    <kbd><img align="center" src="gifhub.gif" alt="Logo Luciano Barreto" width="900"/></kbd>
   </a>
 </p>
 
