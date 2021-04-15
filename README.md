@@ -9,7 +9,7 @@
 <p>O Snake Game é um jogo que ficou conhecido por diversas versões cuja versão inicial começou com o jogo Blockade de 1976, sendo feitas várias imitações em vídeo-games e computadores. No fim dos anos 90 foi popularizado em celulares da Nokia que vinham com o jogo já incluso :octocat:</p>
 
 <p align="center">
-  <kbd><img align="center" src="sGame.png" alt="Tela do jogo" width="450"/></kbd>
+  <kbd><img align="center" src="sGame.png" alt="Tela do jogo" width="750"/></kbd>
 </p>
 
 <br>
